@@ -101,4 +101,4 @@ scroll position is not changed.
 The form handler writes the user input to the websocket and clears the input
 field.
  
-function added to broadcast to websocket
+function added to broadcast to websocket periodically
